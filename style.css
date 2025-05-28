@@ -343,7 +343,7 @@
     overflow-x: auto;
 }
 .container-7 .bg-images .bg-image-1{
-    background-image: url(/images/final-1.avif);
+    background-image: url(./images/final-1.avif);
     height:300px ;
     width: 450px;
     margin-top: 15px;
@@ -357,7 +357,7 @@
 
 }
 .container-7 .bg-images .bg-image-2{
-    background-image: url(/images/final-2.avif);
+    background-image: url(./images/final-2.avif);
     height:300px ;
     width: 450px;
     display: inline-block;
@@ -370,7 +370,7 @@
 
 }
 .container-7 .bg-images .bg-image-3{
-    background-image: url(/images/final-3.avif);
+    background-image: url(./images/final-3.avif);
     height:300px ;
     width: 450px;
     margin-top: 15px;
@@ -383,7 +383,7 @@
 
 }
 .container-7 .bg-images .bg-image-4{
-    background-image: url(/images/final-4.avif);
+    background-image: url(./images/final-4.avif);
     height:300px ;
     width: 450px;
     margin-top: 15px;

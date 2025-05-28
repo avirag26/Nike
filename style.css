@@ -205,14 +205,14 @@
     margin-top: 20px;
 }
 .container-4 .image-1{
-    background-image: url(/images/bg-1.avif);
+    background-image: url(./images/bg-1.avif);
     width: 800px;
     height: 700px;
     margin-right: 15px;
     background-size: cover;
 }
 .container-4 .image-2{
-    background-image: url(/images/bg-2.avif);
+    background-image: url(./images/bg-2.avif);
     width: 800px;
     height: 700px;
     margin-right: 15px;
